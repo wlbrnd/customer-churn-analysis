@@ -79,6 +79,9 @@ HR-Analytics-Project/
 │   ├── dashboard3.png/                    
 │   ├── dashboard4.png/                   
 │   └── HR_Analytics_Dashboard.twb
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## Dashboard Features
